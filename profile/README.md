@@ -6,5 +6,5 @@ Minecraft server, powered by [Purpur](https://purpurmc.org).
 - **IP:** mc.atestacraft.ru:25511
 - **Version:** 1.20.1
 - **Website:** [atestacraft.ru](https://atestacraft.ru)
-- **Access:** [atesta.trademc.org](https://atesta.trademc.org)
+- **Access:** [atestacraft.trademc.org](https://atestacraft.trademc.org)
 - **Worlds:** [worlds.atestacraft.ru](https://worlds.atestacraft.ru)
